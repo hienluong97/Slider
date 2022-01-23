@@ -10,13 +10,13 @@
     margin-top: 20px; 
     margin-left: auto;
     margin-right: auto;
-    width: 80%;    
+    width: 80%; 
+    position: relative;        
 }
 
 .sliderWraper {
     width: 100%;     
-    overflow: hidden; 
-    position: relative;       
+    overflow: hidden;         
 }
 .sliderMain {     
     display: flex;
